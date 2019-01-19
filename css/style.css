@@ -1,0 +1,50 @@
+.title {
+    font-family: 'Pacifico', cursive;
+    color: #FD5401 !important;
+}
+
+.mainFont {
+    font-family: 'Acme', sans-serif;
+
+}
+
+/* font-family: 'Lobster', cursive;
+font-family: 'Pacifico', cursive;
+font-family: 'Acme', sans-serif; */
+.signature{
+    font-family: 'Pacifico', cursive; 
+    font-size: 8px;  
+    text-align: right;
+    color: rgb(255, 255, 255, 0.8) !important;
+    margin-right: 120px;
+}
+.buttons {
+    margin-top: 40px;
+    font-family: 'Pacifico', cursive;
+    background-color: rgb(160, 160, 7) !important;
+    font-size: 20px;
+    border: 2px solid rgb(255, 255, 255, 0.5);
+    
+}
+
+.btn-area {
+    background-color: rgb(47, 40, 158, 0.3) !important;
+    height: 150px;
+    border-radius: 8px;
+
+    
+
+}
+
+.main-background{
+    background-image:  url("./../img/maxresdefault.jpg");
+}
+
+.head-background {
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+.api-text {
+    color: white !important;
+    text-decoration: none;
+}
