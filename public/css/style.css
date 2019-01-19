@@ -3,10 +3,16 @@
     color: #FD5401 !important;
 }
 
+.survey-text{
+    font-family: 'Pacifico', cursive;
+    color: #FD5401 !important;
+}
 .mainFont {
     font-family: 'Acme', sans-serif;
 
 }
+
+
 
 /* font-family: 'Lobster', cursive;
 font-family: 'Pacifico', cursive;
@@ -37,7 +43,7 @@ font-family: 'Acme', sans-serif; */
 }
 
 .main-background{
-    background-image:  url("./../img/maxresdefault.jpg");
+    background-image:  url("../img/maxresdefault.jpg");
 }
 
 .head-background {
@@ -47,4 +53,31 @@ font-family: 'Acme', sans-serif; */
 .api-text {
     color: white !important;
     text-decoration: none;
+}
+
+#match-img {
+    width: 400px;
+    height: 300px;
+    text-align: center;
+}
+
+.about-title{
+    font-family: 'Acme', sans-serif; 
+    color: rgb(44, 74, 114) !important;
+}
+
+#match-name{
+
+    font-family: 'Pacifico', cursive;
+    color: rgb(44, 74, 114) !important;
+
+}
+
+.modal-title {
+    font-family: 'Pacifico', cursive;
+    color: #FD5401 !important;
+}
+
+.survey-background{
+    background-image:  url("../img/pattern.jpg");
 }

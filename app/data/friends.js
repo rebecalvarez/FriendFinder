@@ -53,7 +53,23 @@ var  friendsArray = [
                 "3",
                 "4"
                 ]
-                }
+                },
+                {
+                    "name": "Raquel Montes",
+                    "photo": "https://buzznadia.com/hookup/wp-content/uploads/2018/09/Top-5-Beautiful-Sugar-Mamas-That-Impress-You.jpg",
+                    "scores": [
+                    "4",
+                    "2",
+                    "1",
+                    "5",
+                    "1",
+                    "2",
+                    "4",
+                    "4",
+                    "3",
+                    "1"
+                    ]
+                    }
 ];
 
   
